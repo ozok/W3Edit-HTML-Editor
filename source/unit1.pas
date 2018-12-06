@@ -7,7 +7,7 @@ interface
 uses
   Classes, SysUtils, FileUtil, LResources, Forms, Controls, Graphics, Dialogs,
   ButtonPanel, ComCtrls, ExtCtrls, StdCtrls, Buttons, ColorBox, Menus, SynEdit,
-  SynHighlighterHTML, SynEditKeyCmds {$IFDEF WIN32}, ShellAPI {$ENDIF}, LCLType, Spin, Unit2;
+  SynHighlighterHTML, SynEditKeyCmds, ShellAPI, LCLType, Spin, Unit2;
 
 type
 
